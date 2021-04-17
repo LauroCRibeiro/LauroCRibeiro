@@ -1,3 +1,4 @@
+![Lauro Ribeiro - Data Analyst (1)](https://user-images.githubusercontent.com/32388750/115126667-9ced3900-9fc8-11eb-9c41-e86d0cb89fc9.png)
 ### Hi there 👋
 
 <!--
