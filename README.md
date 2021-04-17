@@ -1,4 +1,12 @@
 ![Lauro Ribeiro - Data Analyst (1)](https://user-images.githubusercontent.com/32388750/115126667-9ced3900-9fc8-11eb-9c41-e86d0cb89fc9.png)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 ### Hi there 👋
 
 <!--
