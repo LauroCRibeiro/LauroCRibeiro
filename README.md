@@ -14,7 +14,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=brightgreen)
 
 
 Here are some ideas to get you started:
