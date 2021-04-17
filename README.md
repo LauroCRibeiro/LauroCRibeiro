@@ -3,7 +3,8 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroCRibeiro&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=LauroCRibeiro&theme=buefy"/></td>
+        <td><img width="495px" align="left" src=" ![Hi](https://user-images.githubusercontent.com/32388750/115126773-93180580-9fc9-11eb-8c2b-5be71032f391.gif)
+"/></td>
     </tr>   
 </table>
 </center> 
