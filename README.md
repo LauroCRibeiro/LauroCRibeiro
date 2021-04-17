@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/laurocesarribeiro"><img src=" https://github.com/LauroCRibeiro/LauroCRibeiro/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
 
-![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=blue&style=flat
+[](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=blue&style=flat
 <!--
 **LauroCRibeiro/LauroCRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
