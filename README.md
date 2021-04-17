@@ -10,7 +10,7 @@
 
 # Hi, Welcome to my Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://github.com/LauroCRibeiro/LauroCRibeiro/linkedin.png" width="16"></img></a> [LinkedIn] (https://www.linkedin.com/in/laurocesarribeiro)  
+<a href="https://www.linkedin.com/in/laurocesarribeiro"><img src=" ![linkedin](https://user-images.githubusercontent.com/32388750/115126929-995ab180-9fca-11eb-869b-a87316f94382.png)" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
 <!--
 **LauroCRibeiro/LauroCRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
