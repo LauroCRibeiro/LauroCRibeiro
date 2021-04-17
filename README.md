@@ -10,7 +10,17 @@
 
 # Hi, Welcome to my Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<center>
+<table>
+    <tr>
+        <td><a href="https://www.linkedin.com/in/laurocesarribeiro">< align="left" img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)   /></td>
+        <td><a href="https://public.tableau.com/profile/lauro.cesar.ribeiro#!/">< align="left" img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/tableau.jpg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)</td>
+    </tr>   
+</table>
+</center>
+
 <a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
+
 
 
 
