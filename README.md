@@ -10,7 +10,7 @@
 
 # Hi, Welcome to my Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://github.com/LauroCRibeiro/LauroCRibeiro/download.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
+<a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://github.com/LauroCRibeiro/LauroCRibeiro/download.png" width="16px"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
 
 
 
