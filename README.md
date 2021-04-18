@@ -12,7 +12,7 @@
 
 I am Lauro Ribeiro, a Brazilian who has been living in Ireland for a couple of years. I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓
 
-I am a Data Analyst Intern at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired. 
+I am a Data Analyst Intern at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
 
 - I love to learn new languages 📚 📖 
 - I love travelling ✈️ ✈️
