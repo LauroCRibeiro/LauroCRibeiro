@@ -12,7 +12,7 @@
 
 I am Lauro Ribeiro, a Brazilian 🇧🇷 Who has been living in Ireland 🇮🇪 for a couple of years. I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with overall of four years of academic studies 👨🏼‍🎓
 ***
-Where can you find me? :mag_right:
+# Where can you find me? :mag_right:
 
 You can connect with me through my LinkedIn Page <a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro) .Also, you may check my Tableau Public Repository, where I publish some dashboards <a href="https://public.tableau.com/profile/lauro.cesar.ribeiro#!/"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/tableau.jpg" width="16"></img></a> [Tableau](https://public.tableau.com/profile/lauro.cesar.ribeiro#!/)  
 
