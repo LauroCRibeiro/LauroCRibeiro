@@ -13,9 +13,7 @@
 ***
 Where can you find me? :mag_right:
 
-<a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro)  
-
-<a href="https://public.tableau.com/profile/lauro.cesar.ribeiro#!/"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/tableau.jpg" width="16"></img></a> [Tableau](https://public.tableau.com/profile/lauro.cesar.ribeiro#!/)  
+You can connect with me through my LinkedIn Page <a href="https://www.linkedin.com/in/laurocesarribeiro"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laurocesarribeiro) .Also, you may check my Tableau Public Repository for some dashboards <a href="https://public.tableau.com/profile/lauro.cesar.ribeiro#!/"><img src="https://raw.githubusercontent.com/LauroCRibeiro/LauroCRibeiro/main/tableau.jpg" width="16"></img></a> [Tableau](https://public.tableau.com/profile/lauro.cesar.ribeiro#!/)  
 
 
 
