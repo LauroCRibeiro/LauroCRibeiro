@@ -8,7 +8,7 @@
 </table>
 </center>  
 
-# Hi, Welcome to my Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ***
 Where can you find me? :mag_right:
