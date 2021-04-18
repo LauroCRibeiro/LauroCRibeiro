@@ -21,6 +21,7 @@ You can connect with me through my LinkedIn Page <a href="https://www.linkedin.c
 
 ![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=brightgreen)
 
+***
 
 Here are some ideas to get you started:
 
