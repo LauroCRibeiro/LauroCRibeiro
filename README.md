@@ -14,12 +14,12 @@ I am Lauro Ribeiro, a Brazilian who has been living in Ireland for a couple of y
 
 I am a Data Analyst Intern at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired. 
 
-- I love to learn new languages.
-- I love travelling. 
-- I love music.
-- I love cooking.
-- I love Series.
-- I love hangouts.
+- I love to learn new languages 📚 📖 
+- I love travelling ✈️ ✈️
+- I love music 🎶 🎧
+- I love cooking 🧑‍🍳🍳
+- I love Series 📺 📺 
+- I love hangouts 🍹 🍺 
 
 ***
 
