@@ -23,7 +23,7 @@ You can connect with me through my LinkedIn Page <a href="https://www.linkedin.c
 
 
 
-# You are the visitor number: ![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=brightgreen) Thanks for reaching me out 🙌🏼🤙
+## You are the visitor number: ![](https://komarev.com/ghpvc/?username=LauroCRibeiro&color=brightgreen) 
 
 ***
 
