@@ -11,7 +11,7 @@
 
 # Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I am Lauro Ribeiro, a Brazilian who has been living in Ireland for a couple of years. I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓
+I am Lauro Ribeiro, a Brazilian who has been living in Ireland for a couple of years. I worked as a Junior Data Reporting Analyst in Brazil for a Multinational Automobile Manufacturer for 2,5 years, also I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
 I am a Data Analyst Intern at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
 
