@@ -1,4 +1,4 @@
-![Lauro Ribeiro - Data Analyst](https://user-images.githubusercontent.com/32388750/115246468-d3889800-a11d-11eb-83b1-2e14f476931f.png)
+
 
 <center>
 <table>
