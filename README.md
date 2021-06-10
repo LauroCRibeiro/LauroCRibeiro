@@ -1,5 +1,9 @@
 
 
+# Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+
+
 <center>
 <table>
     <tr>
@@ -7,9 +11,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=LauroCRibeiro&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
-
-# Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</center>   
 
 I am Lauro Ribeiro, a Brazilian who has been living in Ireland for a couple of years. I worked as a Junior Data Reporting Analyst in Brazil for a Multinational Automobile Manufacturer for 2,5 years, also I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
