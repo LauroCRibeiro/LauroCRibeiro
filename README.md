@@ -15,7 +15,9 @@
 
 I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I worked as a Data Reporting Analyst in Brazil for a Multinational Automobile Manufacturer for 2,5 years, also I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
-I am a Data Analyst Intern at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
+I took a Data Analyst Internship at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
+
+I am also passionate about Python and everything we can do with it.
 
 - I love to learn new languages 📚 📖 
 - I love travelling ✈️ ✈️
