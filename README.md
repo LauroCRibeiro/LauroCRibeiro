@@ -13,7 +13,7 @@
 </table>
 </center>   
 
-I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I worked as a Data Reporting Analyst in Brazil for a Multinational Automobile Manufacturer for 2,5 years, also I am a bachelor Information Technology grad 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
+I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I work as a Technical Support Analyst at Accenture, also I am a bachelor Information Technology graduate 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
 I took a Data Analyst Internship at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
 
