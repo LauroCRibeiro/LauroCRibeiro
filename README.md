@@ -2,17 +2,6 @@
 
 # Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroCRibeiro&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=LauroCRibeiro&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>   
-
 I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I work as a Technical Support Analyst at Accenture, also I am a bachelor Information Technology graduate 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
 I took a Data Analyst Internship at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
@@ -46,3 +35,14 @@ You can connect with me through my LinkedIn Page <a href="https://www.linkedin.c
 - Analyze sales figures, market research, logistics, or transport data
 - Create and follow processes to keep data confidential
 - Come up with solutions to costly business problems
+
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroCRibeiro&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=LauroCRibeiro&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>   
+
