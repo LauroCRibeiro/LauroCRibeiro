@@ -1,6 +1,6 @@
 
 
-# Hi, Welcome Folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">
+# Hi, Welcome Folks
 
 I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I work as a Technical Support Analyst at Accenture for Facebook Ads, also I am a bachelor Information Technology graduate 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
 
