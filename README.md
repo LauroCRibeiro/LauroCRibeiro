@@ -2,11 +2,9 @@
 
 # Hi, Welcome Folks
 
-I am **Lauro Ribeiro**, a Brazilian who has been living in Ireland for a couple of years. I work as a Technical Support Analyst at Accenture for Facebook Ads, also I am a bachelor Information Technology graduate 👨🏻‍💻 at CCT College Dublin, with an overall of four years of academic studies 👨🏼‍🎓 
+Data Reporting Analyst Professional with a BSc in Computing and Information Technology Level 8 at CCT College Dublin, currently working on Accenture as a Technical Support Analyst for Facebook Ads.
 
-I took on a Data Analyst Internship at Data Glacier 🧑🏻‍🏫👨🏻‍🔬, where I could put in practice all knowledge acquired by interpreting and analyzing data for driving business solutions.
-
-I am also passionate about Python and everything we can do with it.
+I am a curious person who tells stories with data.
 
 - I love to learn new languages 📚 📖 
 - I love travelling ✈️ ✈️
