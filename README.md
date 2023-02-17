@@ -2,7 +2,7 @@
 
 # Hi, Welcome Folks
 
-Data Reporting Analyst Professional with a BSc in Computing and Information Technology Level 8 at CCT College Dublin, currently working on Accenture as a Technical Support Analyst for Facebook Ads.
+Data Reporting Analyst Professional with a BSc in Computing and Information Technology Level 8 at CCT College Dublin - Ireland, currently working on Accenture as a Technical Support Analyst for Facebook Ads.
 
 I am a curious person who tells stories with data.
 
