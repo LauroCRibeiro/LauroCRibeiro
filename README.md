@@ -10,7 +10,7 @@ I'm Lauro Ribeiro, a seasoned data analytics professional with over a decade of 
 
 **Professional Journey:**
 
-* Honda Brasil: 3+ years as a Data Reporting Analyst.
+* Honda Brasil: 3+ years as a Data Reporting Analyst honing my skills as a data reporting analyst, contributing valuable insights to optimize operations at Honda Brasil.
 * Accenture - Facebook Ads Project: Product Analyst role, providing insights into advertisers' marketing campaigns.
 * Current Role - Webinterpret: Currently a Customer Success Specialist, utilizing historical data to empower business decisions.
 
