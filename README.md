@@ -2,9 +2,24 @@
 
 # Hi, Welcome Folks
 
-Data Reporting Analyst Professional with a BSc in Computing and Information Technology Level 8 at CCT College Dublin - Ireland, currently working on Accenture as a Technical Support Analyst for Facebook Ads.
+## About Me:
 
-I am a curious person who tells stories with data.
+I'm Lauro Ribeiro, a seasoned data analytics professional with over a decade of experience. Originally a Data Reporting Analyst at Honda Brasil, I later pursued a Bachelor's in Information Technology and Computing with a specialization in Data Analytics during my eight-year stay in Ireland.
+
+**Skills:** Proficient in Excel, Google Sheets, SQL, Power BI, Tableau, and Python.
+
+**Professional Journey:**
+
+* Honda Brasil: 3+ years as a Data Reporting Analyst.
+* Accenture - Facebook Ads Project: Product Analyst role, providing insights into advertisers' marketing campaigns.
+* Current Role - Webinterpret: Currently a Customer Success Specialist, utilizing historical data to empower business decisions.
+
+**Future Goals:**
+
+Passionate about leveraging data for business empowerment, with ongoing aspirations in a BI/Data Analyst role.
+
+Let's connect and explore how my expertise can benefit your business!
+
 
 - I love to learn new languages 📚 📖 
 - I love travelling ✈️ ✈️
